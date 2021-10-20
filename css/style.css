@@ -1,0 +1,36 @@
+body {
+    font: 20px Arial, sans-serif;
+}
+
+.logo {
+    width: 70px;
+    height: 70px;
+    border-radius: 100%;
+    
+}
+
+.navbar {
+    background-color: #7C2D2D;
+    padding-bottom: 20px;
+}
+.quemsou{
+    background-color: aqua;
+    
+}
+
+.tx {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.margin {
+    padding-top: 50px;
+    padding-bottom: 76px;
+}
+
+.parceiros {
+    background-color: cadetblue;
+
+}
+
+
